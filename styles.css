@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+#block{
+	display:flex;
+}
+.holder{
+	width:30px;
+	height:30px;
+	border:2px;
+	background-color:green;
+	justify-content:space-around;
+	align-items:center;
+	flex-wrap:wrap;
+}
